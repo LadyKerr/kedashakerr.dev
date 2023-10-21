@@ -1,0 +1,103 @@
+[
+    {
+      "id": 0,
+      "title": "From TSV to CSV: How GitHub Copilot Chat Made Data Conversion a Breeze!",
+      "description": "Read about how GitHub Copilot Chat made data conversion easier than ever before.",
+      "link": "https://dev.to/github/from-tsv-to-csv-how-github-copilot-chat-made-data-conversion-a-breeze-2i3g",
+      "image": "https://github.com/LadyKerr/codespaces-actions-playground/assets/47188731/36cc3452-63b5-45f5-aeee-2a3350981782"
+    },
+    {
+      "id": 1,
+      "title": "Getting Started with GitHub Copilot Chat in VSCode",
+      "description": "Learn how to get started with GitHub Copilot Chat in VSCode.",
+      "link": "https://dev.to/github/getting-started-with-github-copilot-chat-in-vscode-174m",
+      "image": ""
+    },
+    {
+      "id": 2,
+      "title": "How to Enable 2FA for your GitHub Account ",
+      "description": "Learn how to enable two-factor authentication for your GitHub account.",
+      "link": "https://dev.to/github/how-to-enable-2fa-for-your-github-account-4o60",
+      "image": ""
+    },
+    {
+      "id": 3,
+      "title": "Codespaces Tips: How to Create Pull Requests Without Leaving Your Code Editor",
+      "description": "Learn how to create pull requests without leaving your code editor using GitHub Codespaces.",
+      "link": "https://dev.to/github/codespaces-tips-how-to-create-pull-requests-without-leaving-your-code-editor-1la8",
+      "image": ""
+    },
+    {
+      "id": 4,
+      "title": "ReadME Podcast",
+      "description": "Explore the fusion of technology and progress with the ReadME podcast.",
+      "link": "https://github.blog/2023-04-28-this-month-on-the-readme-podcast-exploring-the-fusion-of-technology-and-progress/"
+    },
+    {
+      "id": 5,
+      "title": "10 things you didn’t know you could do with GitHub Projects",
+      "description": "Discover 10 things you didn't know you could do with GitHub Projects.",
+      "link": "https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/"
+    },
+    {
+      "id": 6,
+      "title": "How to build a GPT-3 App with Nextjs, React, and GitHub Copilot",
+      "description": "Learn how to build a GPT-3 app with Next.js, React, and GitHub Copilot.",
+      "link": "https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/"
+    },
+    {
+      "id": 7,
+      "title": "CLI tricks every developer should know",
+      "description": "Discover CLI tricks that every developer should know.",
+      "link": "https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/"
+    },
+    {
+      "id": 8,
+      "title": "How to automate your dev environment with dev containers and GitHub Codespaces",
+      "description": "Learn how to automate your development environment with dev containers and GitHub Codespaces.",
+      "link": "https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/",
+      "image": ""
+    },
+    {
+      "id": 9,
+      "title": "5 steps to convince your boss to send you to GitHub Universe",
+      "description": "Discover 5 steps to convince your boss to send you to GitHub Universe.",
+      "link": "https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/",
+      "image": ""
+    },
+    {
+      "id": 10,
+      "title": "The role software developers play in the cybersecurity space",
+      "description": "Learn about the role software developers play in the cybersecurity space.",
+      "link": "https://dev.to/lacework/the-role-software-developers-play-in-the-cybersecurity-space-1jh2",
+      "image": ""
+    },
+    {
+      "id": 11,
+      "title": "The role software developers play in the cybersecurity space",
+      "description": "Learn about the role software developers play in the cybersecurity space.",
+      "link": "https://www.lacework.com/blog/the-role-software-developers-play-in-the-cybersecurity-space/",
+      "image": ""
+    },
+    {
+      "id": 12,
+      "title": "Why Software Shifted Left",
+      "description": "Learn why software shifted left and what it means for developers.",
+      "link": "https://www.forbes.com/sites/adrianbridgwater/2022/04/29/why-software-shifted-left/?sh=16855bc8356b",
+      "image": ""
+    },
+    {
+      "id": 13,
+      "title": "Leading API Providers Reveal Their Favorite Postman Things",
+      "description": "Discover the favorite Postman things of leading API providers.",
+      "link": "https://blog.postman.com/leading-api-providers-reveal-favorite-postman-things/",
+      "image": ""
+    },
+    {
+      "id": 14,
+      "title": "Hackathon winner",
+      "description": "Read about when I won a Hackathon via New Relic 2022 competition.",
+      "link": "https://newrelic.com/blog/nerd-life/futurestack22-conference-recap",
+      "image": ""
+    }
+  ]
