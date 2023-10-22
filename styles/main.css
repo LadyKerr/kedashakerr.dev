@@ -63,3 +63,36 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  transition: box-shadow 0.2s ease-in-out;
+}
+
+.card:hover {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  background-color: #ffe6e6;
+}
+
+.card a {
+  text-decoration: none;
+  color: #333;
+}
+
+.card h2 {
+  margin-top: 0;
+  margin-bottom: 5px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.card p {
+  margin-top: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
