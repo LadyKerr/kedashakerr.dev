@@ -1,106 +1,162 @@
 [
   {
-    "id": 0,
-    "title": "How to build a GPT-3 App with Nextjs, React, and GitHub Copilot",
-    "description": "Learn how to build a GPT-3 app with Next.js, React, and GitHub Copilot.",
-    "link": "https://github.blog/2023-07-25-how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/",
-    "image": "https://github.blog/wp-content/uploads/2023/07/gpt3app-header.png?resize=1200%2C630"
-  },
-  {
     "id": 1,
-    "title": "10 things you didn’t know you could do with GitHub Projects",
-    "description": "Discover 10 things you didn't know you could do with GitHub Projects.",
-    "link": "https://github.blog/2023-08-28-10-things-you-didnt-know-you-could-do-with-github-projects/",
-    "image": "https://github.com/LadyKerr/codespaces-actions-playground/assets/47188731/ae14b011-2c70-4f80-9fcd-c9a8cdd6fe3e"
+    "title": "Beginner's guide to GitHub: Setting up and securing your profile",
+    "description": "As part of the GitHub for Beginners guide, learn how to improve the security of your profile and create a profile README. This will let you give your GitHub account a little more personality.",
+    "link": "https://github.blog/developer-skills/github/beginners-guide-to-github-setting-up-and-securing-your-profile/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=2&resize=800%2C425",
+    "category": "Developer skills"
   },
   {
     "id": 2,
-    "title": "Getting Started with GitHub Copilot Chat in VSCode",
-    "description": "Learn how to get started with GitHub Copilot Chat in VSCode.",
-    "link": "https://dev.to/github/getting-started-with-github-copilot-chat-in-vscode-174m",
-    "image": "https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pxiqlcvignw4s5aa3nle.gif"
+    "title": "Beginner's guide to GitHub: Merging a pull request",
+    "description": "As part of the GitHub for Beginners guide, learn how to merge pull requests. This will enable you to resolve conflicts when they arise.",
+    "link": "https://github.blog/developer-skills/github-education/beginners-guide-to-github-merging-a-pull-request/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
   {
     "id": 3,
-    "title": "How to automate your dev environment with dev containers and GitHub Codespaces",
-    "description": "Learn how to automate your development environment with dev containers and GitHub Codespaces.",
-    "link": "https://github.blog/2023-03-06-how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/",
-    "image": "https://github.blog/wp-content/uploads/2023/03/automate-header.png?resize=1200%2C630"
+    "title": "Beginner's guide to GitHub: Creating a pull request",
+    "description": "As part of the GitHub for Beginners guide, learn how to create pull requests. This will enable you to suggest changes to existing repositories.",
+    "link": "https://github.blog/developer-skills/github/beginners-guide-to-github-creating-a-pull-request/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
   {
     "id": 4,
-    "title": "ReadME Podcast",
-    "description": "Explore the fusion of technology and progress with the ReadME podcast.",
-    "link": "https://github.blog/2023-04-28-this-month-on-the-readme-podcast-exploring-the-fusion-of-technology-and-progress/",
-    "image": ""
+    "title": "Beginner's guide to GitHub: Adding code to your repository",
+    "description": "Take the next step in our GitHub for Beginners series and add code to your repository. Learn how to create branches and upload changes into a pull request.",
+    "link": "https://github.blog/developer-skills/github/beginners-guide-to-github-adding-code-to-your-repository/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
   {
     "id": 5,
-    "title": "How to Enable 2FA for your GitHub Account ",
-    "description": "Learn how to enable two-factor authentication for your GitHub account.",
-    "link": "https://dev.to/github/how-to-enable-2fa-for-your-github-account-4o60",
-    "image": "https://user-images.githubusercontent.com/122485963/221375469-ca75e2b3-ea0a-4171-a426-1f7b4f4a2c81.png"
+    "title": "Beginner's guide to GitHub: Uploading files and folders to GitHub",
+    "description": "The next step in our GitHub for Beginners series is learning how to add files and folders to your GitHub repository.",
+    "link": "https://github.blog/developer-skills/github/beginners-guide-to-github-uploading-files-and-folders-to-github/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
-
   {
     "id": 6,
-    "title": "From TSV to CSV: How GitHub Copilot Chat Made Data Conversion a Breeze!",
-    "description": "Read about how GitHub Copilot Chat made data conversion easier than ever before.",
-    "link": "https://dev.to/github/from-tsv-to-csv-how-github-copilot-chat-made-data-conversion-a-breeze-2i3g",
-    "image": "https://github.com/LadyKerr/codespaces-actions-playground/assets/47188731/36cc3452-63b5-45f5-aeee-2a3350981782"
+    "title": "Beginner's guide to GitHub repositories: How to create your first repo",
+    "description": "Git started on your first repository in the third installment of GitHub for Beginners. Discover the essential features and settings to manage your projects effectively.",
+    "link": "https://github.blog/developer-skills/github/beginners-guide-to-github-repositories-how-to-create-your-first-repo/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
   {
     "id": 7,
-    "title": "CLI tricks every developer should know",
-    "description": "Discover CLI tricks that every developer should know.",
-    "link": "https://github.blog/2023-04-26-cli-tricks-every-developer-should-know/",
-    "image": ""
+    "title": "Top 12 Git commands every developer must know",
+    "description": "The latest installment of GitHub for Beginners, where we cover the essential Git commands to get you Git-literate.",
+    "link": "https://github.blog/developer-skills/github/top-12-git-commands-every-developer-must-know/",
+    "image": "https://github.blog/wp-content/uploads/2024/05/GitHub-for-beginners.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
-
   {
     "id": 8,
-    "title": "Codespaces Tips: How to Create Pull Requests Without Leaving Your Code Editor",
-    "description": "Learn how to create pull requests without leaving your code editor using GitHub Codespaces.",
-    "link": "https://dev.to/github/codespaces-tips-how-to-create-pull-requests-without-leaving-your-code-editor-1la8",
-    "image": "https://github.com/LadyKerr/codespaces-actions-playground/assets/47188731/dc480a81-3390-4d06-b365-d20abfb74931"
+    "title": "What is Git? Our beginner's guide to version control",
+    "description": "Let's get you started on your Git journey with basic concepts to know, plus a step-by-step on how to install and configure the most widely used version control system in the world.",
+    "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/what-is-git-our-beginners-guide-to-version-control/",
+    "image": "https://github.blog/wp-content/uploads/2024/03/github_copilot_header.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
   {
     "id": 9,
-    "title": "5 steps to convince your boss to send you to GitHub Universe",
-    "description": "Discover 5 steps to convince your boss to send you to GitHub Universe.",
-    "link": "https://github.blog/2022-09-19-5-steps-to-convince-your-boss-to-send-you-to-github-universe/",
-    "image": ""
+    "title": "Using GitHub Copilot in your IDE: Tips, tricks, and best practices",
+    "description": "GitHub Copilot is a powerful AI assistant. Learn practical strategies to get the most out of GitHub Copilot to generate the most relevant and useful code suggestions in your editor.",
+    "link": "https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/",
+    "image": "https://github.blog/wp-content/uploads/2024/03/github_copilot_header.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
   },
   {
     "id": 10,
+    "title": "10 unexpected ways to use GitHub Copilot",
+    "description": "GitHub Copilot is widely known for its code generation feature. Learn how the AI assistant's abilities can extend beyond just code generation.",
+    "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/10-unexpected-ways-to-use-github-copilot/",
+    "image": "https://github.blog/wp-content/uploads/2024/01/92bb9708-4237-4d05-9d26-2a826d3a489e-1200x630-1.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
+  },
+  {
+    "id": 11,
+    "title": "GitHub Certifications are generally available",
+    "description": "Unlock your full potential with GitHub Certifications! Earning a GitHub certification will give you the competitive advantage of showing up as a GitHub expert.",
+    "link": "https://github.blog/news-insights/product-news/github-certifications-are-generally-available/",
+    "image": "https://github.blog/wp-content/uploads/2023/10/Collaboration-DarkMode-2.png?zoom=3&resize=400%2C212",
+    "category": "News & insights"
+  },
+  {
+    "id": 12,
+    "title": "10 things you didn't know you could do with GitHub Projects",
+    "description": "Learn how to optimize your usage of GitHub Projects to plan and track your work from idea to production.",
+    "link": "https://github.blog/developer-skills/github/10-things-you-didnt-know-you-could-do-with-github-projects/",
+    "image": "https://github.blog/wp-content/uploads/2023/08/10-tips-github-projects.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
+  },
+  {
+    "id": 13,
+    "title": "How to build a GPT-3 App with Nextjs, React, and GitHub Copilot",
+    "description": "In this step-by-step tutorial, you will learn how to use GitHub Copilot to build an application with OpenAI's gpt-3.5-turbo model.",
+    "link": "https://github.blog/developer-skills/github/how-to-build-a-gpt-3-app-with-nextjs-react-and-github-copilot/",
+    "image": "https://github.blog/wp-content/uploads/2023/07/gpt3app-header.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
+  },
+  {
+    "id": 14,
+    "title": "CLI tricks every developer should know",
+    "description": "Learn some tips, tricks, and tools for mastering the command line from GitHub's own developers.",
+    "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/cli-tricks-every-developer-should-know/",
+    "image": "https://github.blog/wp-content/uploads/2021/12/engineering-product_orange-green-banner.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
+  },
+  {
+    "id": 15,
+    "title": "How to automate your dev environment with dev containers and GitHub Codespaces",
+    "description": "GitHub Codespaces enables you to start coding faster when coupled with dev containers. Learn how to automate a portion of your development environment by adding a dev container to an open source project using GitHub Codespaces.",
+    "link": "https://github.blog/developer-skills/github/how-to-automate-your-dev-environment-with-dev-containers-and-github-codespaces/",
+    "image": "https://github.blog/wp-content/uploads/2023/03/automate-header.png?zoom=3&resize=400%2C212",
+    "category": "Developer skills"
+  },
+  {
+    "id": 16,
+    "title": "5 steps to convince your boss to send you to GitHub Universe",
+    "description": "Here are some actionable tips on how to ask your manager to send you to GitHub Universe this year—with a free template included!",
+    "link": "https://github.blog/news-insights/company-news/5-steps-to-convince-your-boss-to-send-you-to-github-universe/",
+    "image": "https://github.blog/wp-content/uploads/2022/08/Universe-Blog-1-Header.jpg?w=1600",
+    "category": "Company news"
+  },
+  {
+    "id": 17,
     "title": "The role software developers play in the cybersecurity space",
     "description": "Learn about the role software developers play in the cybersecurity space.",
     "link": "https://dev.to/lacework/the-role-software-developers-play-in-the-cybersecurity-space-1jh2",
     "image": ""
   },
   {
-    "id": 11,
+    "id": 18,
     "title": "The role software developers play in the cybersecurity space",
     "description": "Learn about the role software developers play in the cybersecurity space.",
     "link": "https://www.lacework.com/blog/the-role-software-developers-play-in-the-cybersecurity-space/",
     "image": ""
   },
   {
-    "id": 12,
+    "id": 19,
     "title": "Why Software Shifted Left",
     "description": "Learn why software shifted left and what it means for developers.",
     "link": "https://www.forbes.com/sites/adrianbridgwater/2022/04/29/why-software-shifted-left/?sh=16855bc8356b",
     "image": ""
   },
   {
-    "id": 13,
+    "id": 20,
     "title": "Leading API Providers Reveal Their Favorite Postman Things",
     "description": "Discover the favorite Postman things of leading API providers.",
     "link": "https://blog.postman.com/leading-api-providers-reveal-favorite-postman-things/",
     "image": ""
   },
   {
-    "id": 14,
+    "id": 21,
     "title": "Hackathon winner",
     "description": "Read about when I won a Hackathon via New Relic 2022 competition.",
     "link": "https://newrelic.com/blog/nerd-life/futurestack22-conference-recap",
